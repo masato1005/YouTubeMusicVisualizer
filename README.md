@@ -1,5 +1,6 @@
 # YouTube Music Visualizer
 
+本アプリは生成AI(Codex)を用いて作成されています。
 Windows上の専用Google Chromeで再生しているYouTube Musicだけを解析し、ジャケットとリアルタイム波形を表示する個人用アプリです。
 
 ## 必要環境
